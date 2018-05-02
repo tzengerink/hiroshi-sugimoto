@@ -1,0 +1,24 @@
+.reveal h1 {
+  font-size: 1.3em;
+}
+
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  font-size: 1em;
+}
+
+.reveal section img.right {
+	border: 0;
+	float: right;
+	height: 450px;
+	vertical-align: top;
+	width: 450px;
+}
+
+.reveal .progress,
+.reveal .controls {
+	color: #666;
+}
