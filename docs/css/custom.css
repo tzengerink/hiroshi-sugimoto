@@ -10,12 +10,20 @@
   font-size: 1em;
 }
 
+.reveal section img {
+	border: 0;
+	max-height: 600px;
+}
+
+.reveal section img.portrait {
+}
+
 .reveal section img.right {
 	border: 0;
 	float: right;
-	height: 450px;
+	height: 400px;
 	vertical-align: top;
-	width: 450px;
+	width: 400px;
 }
 
 .reveal .progress,
