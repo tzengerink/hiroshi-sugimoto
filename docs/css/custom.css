@@ -26,6 +26,11 @@
 	width: 400px;
 }
 
+.reveal section blockquote {
+	font-size: .7em;
+	background: none;
+}
+
 .reveal .progress,
 .reveal .controls {
 	color: #666;
